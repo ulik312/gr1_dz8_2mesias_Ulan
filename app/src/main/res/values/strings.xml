@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="ac">AC</string>
+    <string name="pl_mn">+/-</string>
+    <string name="pocent">%</string>
+    <string name="dileni">/</string>
+    <string name="_7">7</string>
+    <string name="_9">9</string>
+    <string name="umno">x</string>
+    <string name="chislo">4</string>
+    <string name="_6">6</string>
+    <string name="_5">5</string>
+    <string name="min">-</string>
+    <string name="_2">2</string>
+    <string name="plus">+</string>
+    <string name="_0">0</string>
+    <string name="tochca">.</string>
+    <string name="ravno">=</string>
+    <string name="_00">0</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="country_of_origin">Country of Origin</string>
+    <string name="product_category">Product Category</string>
+
+</resources>
